@@ -1,0 +1,66 @@
+{
+  "projects": [
+    {
+      "name": "Infra Universal",
+      "budget": "50000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "UniDev",
+      "budget": "100000",
+      "category": {
+        "id": "4",
+        "name": "Projetos"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "React and NestJS",
+      "budget": "650006",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 60000,
+      "services": [
+        {
+          "name": "Dev Senior",
+          "cost": "60000",
+          "description": "Ajudar o gostosão do Brunão",
+          "id": "d733f3c1-5313-4a71-b2b7-3e9cd3c3b9a6"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Projetos"
+    },
+    {
+      "id": 5,
+      "name": "Planejamento"
+    }
+  ]
+}

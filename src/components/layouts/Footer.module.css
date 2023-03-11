@@ -1,0 +1,36 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    background-color: #222;
+    align-items: center;
+    justify-content: center;
+    min-height: 150px;
+}
+
+.list{
+    display: flex;
+    gap: 35px;
+    list-style: none;
+    margin-bottom: 2em;
+}
+
+.item{
+    color: white;
+    width: 30px;
+}
+
+.item:hover{
+    color: #ffbb33;
+    cursor: pointer;
+}
+
+.p{
+    color: white;
+    font-size: 17px;
+}
+
+.span{
+    color: #ffbb33;
+    font-weight: 700;
+}
+
